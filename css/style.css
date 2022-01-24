@@ -1,0 +1,44 @@
+body
+{
+	background-color: #002301;
+	color: #ffffff;
+
+}
+
+#header
+{
+	background-color: #008000;
+	width: 100%;
+	padding: 20px 0px;
+}
+
+#logo
+{
+	background-color: #008000;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	font-size: 52px;
+	text-align: justify;
+}
+
+#content
+{
+	width: 1200px;
+    height: 1000px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer
+{
+	width: 100%;
+	background-color: #008000;
+	text-align: center;
+    padding: 20px 0px;
+}
+
+#footer > span {
+    font-size: 20px;
+}
